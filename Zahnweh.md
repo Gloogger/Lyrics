@@ -8,13 +8,16 @@ is_project_page: false
 
 <p style="text-align:center;">
 <button type="button" onclick="window.location.href='index.html';">Homepage</button>
-<span style="float:left;"><button type="button" onclick="alert('This is the first chapter!')">Previous</button></span>
-<span style="float:right;"><button type="button" onclick="window.location.href='ch3.html';">Next</button></span>
+<span style="float:left;"><button type="button" onclick="alert('window.location.href='combattimento_di_tancredi_e_clorinda.html')">Previous</button></span>
+<span style="float:right;"><button type="button" onclick="This is the last translation!';">Next</button></span>
 </p>
 
 歌手：Calmus Ensemble
+
 所属专辑：Farb Töne
+
 歌曲网易链接[点这里](https://music.163.com/#/song?id=444347326)。
+
 
 [00:02.730]Wie du mit giftigem Stachel fast 你那恶毒的倒钩
 
