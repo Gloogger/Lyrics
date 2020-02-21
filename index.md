@@ -1,10 +1,10 @@
 ---
 layout: default
 mathjax: true
-title: 'Gloogger's Homepage'
-description: Index and backup for some projects
+title: 'Lyrics Translation Projects'
+description: Some translation practice done on lyrics
 ---
-Salvete!
+
 
 
 ## **Table of Contents**
