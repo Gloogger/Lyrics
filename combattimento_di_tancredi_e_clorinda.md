@@ -9,12 +9,14 @@ is_project_page: false
 
 <p style="text-align:center;">
 <button type="button" onclick="window.location.href='index.html';">Homepage</button>
-<span style="float:left;"><button type="button" onclick="alert('This is the first chapter!')">Previous</button></span>
-<span style="float:right;"><button type="button" onclick="window.location.href='ch3.html';">Next</button></span>
+<span style="float:left;"><button type="button" onclick="alert('This is the first Lyrics!')">Previous</button></span>
+<span style="float:right;"><button type="button" onclick="window.location.href='Zahnweh.html';">Next</button></span>
 </p>
 
 歌手：Jonathan Cohen / Arcangelo
+
 所属专辑：Monteverdi: Madrigals of Love and Loss
+
 歌曲网易链接[点这里](https://music.163.com/#/song?id=28488849&userid=260836688)。
 
 [00:01.80]Tancredi, che Clorinda un uomo stima,   唐克雷蒂，安能辨克罗琳达是雌雄
